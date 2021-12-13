@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Crime-Report-Management-System.iml" filepath="$PROJECT_DIR$/.idea/Crime-Report-Management-System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Crime-Report-Management-System-Miniproject.iml" filepath="$PROJECT_DIR$/.idea/modules/Crime-Report-Management-System-Miniproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Crime-Report-Management-System-Miniproject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Crime-Report-Management-System-Miniproject.app.iml" />
     </modules>
   </component>
 </project>
